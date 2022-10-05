@@ -43,7 +43,7 @@ I'm MindHunter86, a DevOps Engineer/Site Reliability Engineering.
 <div align="center">
     <a href="https://github.com/MindHunter86">
         <img height="150px" src="https://github-readme-stats.vkom.cc/api?username=MindHunter86&show_icons=true&theme=radical&include_all_commits=true&count_private=true&exclude_repo=github-readme-stats" />
-        <img height="150px" src="https://github-readme-stats.vkom.cc/api/top-langs/?username=MindHunter86&layout=compact&langs_count=7&exclude_repo=shurzgbets-web,joyskins-web,shurzgbets-bot,joyskins-node,github-readme-stats&theme=radical" />
+        <img height="150px" src="https://github-readme-stats.vkom.cc/api/top-langs/?username=MindHunter86&layout=compact&langs_count=7&exclude_repo=shurzgbets-web,joyskins-web,shurzgbets-bot,joyskins-node,github-readme-stats,csgf-backend&theme=radical" />
     </a>
 </div>
 <div align="center">
