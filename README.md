@@ -7,8 +7,8 @@ I'm MindHunter86, a DevOps Engineer/Site Reliability Engineering.
 <br/>
 
 **📫 How to reach me:**
-    - Keybase: [keybase.io/vkom](https://keybase.io/vkom)
-    - Email: mindhunter86@vkom.cc
+- Keybase: [keybase.io/vkom](https://keybase.io/vkom)
+- Email: mindhunter86@vkom.cc
 
 <div>
     <a href="https://github.com/MindHunter86">
@@ -17,22 +17,22 @@ I'm MindHunter86, a DevOps Engineer/Site Reliability Engineering.
 </div>
 
 **🔭 Languages, Tools and Interest:**
-    - Ubuntu / Centos / RHEL
-    - Nginx / Haproxy / IPVS
-    - MySQL / MongoDB / Redis / Etcd / Clickhouse / Kafka
-    - Puppet / Salt / Ansible
-    - Nagios / Zabbix / Icinga / Prometheus
-    - Docker / systemd-nspawn / lxd
-    - Kubernetes / Kustomize / Ingress
-    - Jenkins / GitlabCI / ArgoCI / ArgoCD
-    - Coding: Golang / Vue.js (a little bit)
-    - Git (base lvl)
+- Ubuntu / Centos / RHEL
+- Nginx / Haproxy / IPVS
+- MySQL / MongoDB / Redis / Etcd / Clickhouse / Kafka
+- Puppet / Salt / Ansible
+- Nagios / Zabbix / Icinga / Prometheus
+- Docker / systemd-nspawn / lxd
+- Kubernetes / Kustomize / Ingress
+- Jenkins / GitlabCI / ArgoCI / ArgoCD
+- Coding: Golang / Vue.js (a little bit)
+- Git (base lvl)
 
 **🌱 Currently learning or improving skills:**
-    - GitOps
-    - Kubernetes / Helm
-    - Golang / Protobuf / Raft
-    - Javascript / Vue.js
+- GitOps
+- Kubernetes / Helm
+- Golang / Protobuf / Raft
+- Javascript / Vue.js
 
 ⚡ Fun fact: `mesg: ttyname failed: Success`
 
@@ -42,8 +42,8 @@ I'm MindHunter86, a DevOps Engineer/Site Reliability Engineering.
 
 <div align="center">
     <a href="https://github.com/MindHunter86">
-        <img height="150px" src="https://github-readme-stats.vercel.app/api?username=MindHunter86&show_icons=true&theme=radical&include_all_commits=true&count_private=true&cache_seconds=43200" />
-        <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MindHunter86&layout=compact&langs_count=7&exclude_repo=shurzgbets-web,joyskins-web,shurzgbets-bot,joyskins-node&theme=radical" />
+        <img height="150px" src="https://github-readme-stats-kappa-teal.vercel.app/api?username=MindHunter86&show_icons=true&theme=radical&include_all_commits=true&count_private=true&cache_seconds=3600" />
+        <img height="150px" src="https://github-readme-stats-kappa-teal.vercel.app/api/top-langs/?username=MindHunter86&layout=compact&langs_count=7&exclude_repo=shurzgbets-web,joyskins-web,shurzgbets-bot,joyskins-node&theme=radical&cache_seconds=3600" />
     </a>
 </div>
 <div align="center">
