@@ -7,7 +7,7 @@ I'm MindHunter86, a DevOps Engineer/Site Reliability Engineering.
 <br/>
 
 **📫 How to reach me:**
- - Keybase: ![keybase.io/vkom](https://keybase.io/vkom)
+ - Keybase: [keybase.io/vkom](https://keybase.io/vkom)
  - Email: mindhunter86@vkom.cc
 
 <div>
