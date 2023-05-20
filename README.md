@@ -30,6 +30,7 @@ I'm MindHunter86, a DevOps Engineer/Site Reliability Engineering.
 
 **🌱 Currently learning or improving skills:**
 - GitOps
+- IaC
 - Kubernetes / Helm
 - Golang / Protobuf / Raft
 - Javascript / Vue.js
