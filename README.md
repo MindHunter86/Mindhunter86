@@ -2,7 +2,7 @@
 
 <img height="20px" src="https://github.githubassets.com/images/icons/emoji/shipit.png" /> **Hello, my name is:**
 
-I'm MindHunter86, a DevOps Engineer/Site Reliability Engineering.
+I'm MindHunter86, a DevOps Engineer/Site Reliability Engineer.
 
 <br/>
 
