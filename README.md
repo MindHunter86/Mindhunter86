@@ -11,26 +11,26 @@ I currently live in Japan and am looking for a job __only__ in Japan. Anyway, yo
 
 <br />
 
-<img align="right" alt="" src="https://user-images.githubusercontent.com/8397729/193975159-617a8082-1443-4e39-9791-be549059ca97.gif" height="350" />
-
-
 **🔭 Languages, Tools and Interest:**
  - Centos / RHEL / Ubuntu
  - Nginx / Haproxy / IPVS
+<img align="right" src="https://user-images.githubusercontent.com/8397729/193975159-617a8082-1443-4e39-9791-be549059ca97.gif" height="330" />
  - MySQL / MongoDB / Redis / Etcd / Clickhouse / Kafka
  - Puppet / Salt / Ansible / Terraform
  - Nagios / Zabbix / Icinga / Prometheus
  - Docker / systemd-nspawn / lxd
  - Kubernetes / Kustomize / Ingress
- - Jenkins / GitlabCI / ArgoCI / ArgoCD / Github Actions
- - Coding: Golang / Vue.js (a little bit)
+ - Jenkins / GitlabCI / ArgoCI / ArgoCD / Github&nbsp;Actions
+ - Coding: Golang / Vue.js&nbsp;(a&nbsp;little&nbsp;bit)
  - Git
 
+
 **🌱 Currently learning or improving skills:**
+
  - GitOps
  - Kubernetes / Helm
  - Golang / Protobuf / Raft
- - Golang pprof
+ - Golang&nbsp;pprof
  - Javascript / Vue.js
 
 **🔭 Currently part-working in**
