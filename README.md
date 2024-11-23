@@ -33,7 +33,7 @@ I currently live in Japan and am looking for a job __only__ in Japan. Anyway, yo
  - Javascript / Vue.js
 
 **🔭 Currently part-working in**
-[@anilibria](/anilibria)
+[@anilibria](https://github.com/anilibria)
 
 <br/>
 
@@ -42,8 +42,8 @@ I currently live in Japan and am looking for a job __only__ in Japan. Anyway, yo
 ### Github stats:
 
 <div align="center">
-  <img height=250 src="https://github-readme-stats.vkom.cc/api?username=MindHunter86&theme=tokyonight&show_icons=true&include_all_commits=true&count_private=true&show=reviews,prs_merged,prs_merged_percentage" />
-  <img height=250 src="https://github-readme-stats.vkom.cc/api/top-langs?username=MindHunter86&layout=compact&langs_count=8&card_width=320&theme=tokyonight&include_all_commits=true&count_private=true&exclude_repo=shurzgbets-web,joyskins-web,shurzgbets-bot,joyskins-node,github-readme-stats,csgf-backend" />
+  <img height=200 src="https://github-readme-stats.vkom.cc/api?username=MindHunter86&theme=tokyonight&show_icons=true&include_all_commits=true&count_private=true&show=reviews,prs_merged,prs_merged_percentage" />
+  <img height=200 src="https://github-readme-stats.vkom.cc/api/top-langs?username=MindHunter86&layout=compact&langs_count=8&card_width=320&theme=tokyonight&include_all_commits=true&count_private=true&exclude_repo=shurzgbets-web,joyskins-web,shurzgbets-bot,joyskins-node,github-readme-stats,csgf-backend" />
 </div>
 
 <div align="center">
