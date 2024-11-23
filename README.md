@@ -38,8 +38,6 @@ I currently live in Japan and am looking for a job __only__ in Japan. Anyway, yo
 **🔭 Currently part-working in**
 [@anilibria](https://github.com/anilibria)
 
-<br />
-
 ---
 
 ### Github stats:
