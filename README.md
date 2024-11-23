@@ -11,7 +11,7 @@ I currently live in Japan and am looking for a job __only__ in Japan. Anyway, yo
 
 <br />
 
-<img align="right" vspace=50px alt="" src="https://user-images.githubusercontent.com/8397729/193975159-617a8082-1443-4e39-9791-be549059ca97.gif" width="500" height="350" />
+<img align="right" alt="" src="https://user-images.githubusercontent.com/8397729/193975159-617a8082-1443-4e39-9791-be549059ca97.gif" height="350" />
 
 
 **🔭 Languages, Tools and Interest:**
