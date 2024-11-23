@@ -2,68 +2,55 @@
 
 <img height="20px" src="https://github.githubassets.com/images/icons/emoji/shipit.png" /> **Hello, my name is:**
 
-I'm MindHunter86, a DevOps Engineer/Site Reliability Engineer.
+I'm MindHunter86, a DevOps Engineer/Site Reliability Engineering.  
+I'm not a coder, but I often write code using Golang. You can find active projects in pins.  
+I currently live in Japan and am looking for a job __only__ in Japan. Anyway, you can always contact me by email.
 
-<br/>
+[![e-mail](https://img.shields.io/badge/Email-mindhunter86@vkom.cc-informational?logo=mail.ru&style=social&label=e-mail)](mailto:mindhunter86@vkom.cc)  
+[![keybase](https://img.shields.io/keybase/pgp/vkom?style=social&label=KeybasePGP)](https://keybase.io/vkom/pgp_keys.asc)
 
-**📫 How to reach me:**
-- Keybase: [keybase.io/vkom](https://keybase.io/vkom)
-- Email: mindhunter86@vkom.cc
-
-<div>
-    <a href="https://github.com/MindHunter86">
-        <img align="right" alt="" src="https://user-images.githubusercontent.com/8397729/193975159-617a8082-1443-4e39-9791-be549059ca97.gif" width="500" height="320" />
-    </a>
-</div>
+<br />
 
 **🔭 Languages, Tools and Interest:**
-- Ubuntu / Centos / RHEL
-- Nginx / Haproxy / IPVS
-- MySQL / MongoDB / Redis / Etcd / Clickhouse / Kafka
-- Puppet / Salt / Ansible
-- Nagios / Zabbix / Icinga / Prometheus
-- Docker / systemd-nspawn / lxd
-- Kubernetes / Kustomize / Ingress
-- Jenkins / GitlabCI / ArgoCI / ArgoCD
-- Coding: Golang / Vue.js (a little bit)
-- Git (base lvl)
+
+<img align="right" src="https://user-images.githubusercontent.com/8397729/193975159-617a8082-1443-4e39-9791-be549059ca97.gif" height="330" />
+
+ - Centos / RHEL / Ubuntu
+ - Nginx / Haproxy / IPVS
+ - MySQL / MongoDB / Redis / Etcd / Clickhouse / Kafka
+ - Puppet / Salt / Ansible / Terraform
+ - Nagios / Zabbix / Icinga / Prometheus
+ - Docker / systemd-nspawn / lxd
+ - Kubernetes / Kustomize / Ingress
+ - Jenkins / GitlabCI / ArgoCI / ArgoCD / Github&nbsp;Actions
+ - Coding: Golang / Vue.js&nbsp;(a&nbsp;little&nbsp;bit)
+ - Git
+
 
 **🌱 Currently learning or improving skills:**
-- GitOps
-- IaC
-- Kubernetes / Helm
-- Golang / Protobuf / Raft
-- Javascript / Vue.js
 
-⚡ Fun fact: `mesg: ttyname failed: Success`
+ - GitOps
+ - Kubernetes / Helm
+ - Golang / Protobuf / Raft
+ - Golang&nbsp;pprof
+ - Javascript / Vue.js
+
+**👯 Currently part-working in**
+[@anilibria](https://github.com/anilibria)
 
 ---
 
 ### Github stats:
 
 <div align="center">
-    <a href="https://github.com/MindHunter86">
-        <img height="150px" src="https://github-readme-stats.vkom.cc/api?username=MindHunter86&show_icons=true&theme=radical&include_all_commits=true&count_private=true&exclude_repo=github-readme-stats" />
-        <img height="150px" src="https://github-readme-stats.vkom.cc/api/top-langs/?username=MindHunter86&layout=compact&langs_count=7&exclude_repo=shurzgbets-web,joyskins-web,shurzgbets-bot,joyskins-node,github-readme-stats,csgf-backend&theme=radical" />
-    </a>
+  <img height=225 src="https://github-readme-stats.vkom.cc/api?username=MindHunter86&theme=tokyonight&show_icons=true&include_all_commits=true&count_private=true&show=reviews,prs_merged,prs_merged_percentage" />
+  <img height=225 src="https://github-readme-stats.vkom.cc/api/top-langs?username=MindHunter86&layout=compact&langs_count=8&card_width=320&theme=tokyonight&include_all_commits=true&count_private=true&exclude_repo=shurzgbets-web,joyskins-web,shurzgbets-bot,joyskins-node,github-readme-stats,csgf-backend" />
 </div>
+
 <div align="center">
-    <a href="https://github.com/MindHunter86">
-        <img src="https://github-profile-trophy.vercel.app/?username=MindHunter86&theme=radical&no-frame=true&margin-w=30&margin-h=20" />
-    </a>
+  <img height=200 src="https://github-readme-stats.vkom.cc/api/wakatime?username=MindHunter86&theme=tokyonight" />
 </div>
 
-<!--
-**MindHunter86/Mindhunter86** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+  <img height=150 src="https://github-profile-trophy.vercel.app/?username=MindHunter86&theme=tokyonight&include_all_commits=true&count_private=true&no-frame=true&column=7&title=-Stars,-Reviews,-Followers" />
+</div>
