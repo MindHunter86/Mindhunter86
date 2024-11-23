@@ -14,7 +14,9 @@ I currently live in Japan and am looking for a job __only__ in Japan. Anyway, yo
 **🔭 Languages, Tools and Interest:**
  - Centos / RHEL / Ubuntu
  - Nginx / Haproxy / IPVS
+
 <img align="right" src="https://user-images.githubusercontent.com/8397729/193975159-617a8082-1443-4e39-9791-be549059ca97.gif" height="330" />
+
  - MySQL / MongoDB / Redis / Etcd / Clickhouse / Kafka
  - Puppet / Salt / Ansible / Terraform
  - Nagios / Zabbix / Icinga / Prometheus
