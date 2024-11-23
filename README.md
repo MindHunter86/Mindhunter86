@@ -9,9 +9,10 @@ I currently live in Japan and am looking for a job __only__ in Japan. Anyway, yo
 [![e-mail](https://img.shields.io/badge/Email-mindhunter86@vkom.cc-informational?logo=mail.ru&style=social&label=e-mail)](mailto:mindhunter86@vkom.cc)  
 [![keybase](https://img.shields.io/keybase/pgp/vkom?style=social&label=KeybasePGP)](https://keybase.io/vkom/pgp_keys.asc)
 
-<br/>
+<br />
 
-<img align="right" alt="" src="https://user-images.githubusercontent.com/8397729/193975159-617a8082-1443-4e39-9791-be549059ca97.gif" style="margin:50px 0" width="500" height="350" />
+<img align="right" vspace=50px alt="" src="https://user-images.githubusercontent.com/8397729/193975159-617a8082-1443-4e39-9791-be549059ca97.gif" width="500" height="350" />
+
 
 **🔭 Languages, Tools and Interest:**
  - Centos / RHEL / Ubuntu
@@ -35,7 +36,7 @@ I currently live in Japan and am looking for a job __only__ in Japan. Anyway, yo
 **🔭 Currently part-working in**
 [@anilibria](https://github.com/anilibria)
 
-<br/>
+<br />
 
 ---
 
