@@ -35,7 +35,7 @@ I currently live in Japan and am looking for a job __only__ in Japan. Anyway, yo
  - Golang&nbsp;pprof
  - Javascript / Vue.js
 
-**👯 Currently part-working in**
+**👯 Currently maintaining**
 [@anilibria](https://github.com/anilibria)
 
 ---
