@@ -43,14 +43,12 @@ I currently live in Japan and am looking for a job __only__ in Japan. Anyway, yo
 ### Github stats:
 
 <div align="center">
-  <img height=225 src="https://github-readme-stats.vkom.cc/api?username=MindHunter86&theme=tokyonight&show_icons=true&include_all_commits=true&count_private=true&show=reviews,prs_merged,prs_merged_percentage" />
-  <img height=225 src="https://github-readme-stats.vkom.cc/api/top-langs?username=MindHunter86&layout=compact&langs_count=8&card_width=320&theme=tokyonight&include_all_commits=true&count_private=true&exclude_repo=shurzgbets-web,joyskins-web,shurzgbets-bot,joyskins-node,github-readme-stats,csgf-backend" />
+  <img height=300 src="https://github-readme-stats.vkom.cc/api?username=MindHunter86&theme=dracula&show_icons=true&include_all_commits=true&count_private=true&show=reviews,prs_merged,prs_merged_percentage" />
+  <img height=300 src="https://github-profile-trophy.vercel.app/?username=MindHunter86&theme=dracula&include_all_commits=true&count_private=true&no-frame=true&column=4&margin-w=15&margin-h=15&title=-Stars,-Reviews" />
+
 </div>
 
 <div align="center">
-  <img height=200 src="https://github-readme-stats.vkom.cc/api/wakatime?username=MindHunter86&theme=tokyonight" />
-</div>
-
-<div align="center">
-  <img height=150 src="https://github-profile-trophy.vercel.app/?username=MindHunter86&theme=tokyonight&include_all_commits=true&count_private=true&no-frame=true&column=7&title=-Stars,-Reviews,-Followers" />
+  <img height=200 src="https://github-readme-stats.vkom.cc/api/wakatime?username=MindHunter86&theme=ambient_gradient&langs_count=8&layout=compact" />
+  <img height=200 src="https://github-readme-stats.vkom.cc/api/top-langs?username=MindHunter86&layout=compact&langs_count=8&card_width=320&theme=ambient_gradient&include_all_commits=true&count_private=true&exclude_repo=shurzgbets-web,joyskins-web,shurzgbets-bot,joyskins-node,github-readme-stats,csgf-backend" />
 </div>
