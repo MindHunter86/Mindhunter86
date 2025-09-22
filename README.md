@@ -43,8 +43,8 @@ I currently live in Japan and am looking for a job __only__ in Japan. Anyway, yo
 ### Github stats:
 
 <div align="center">
-  <img height=300 src="https://github-readme-stats.vkom.cc/api?username=MindHunter86&theme=dracula&show_icons=true&include_all_commits=true&count_private=true&show=reviews,prs_merged,prs_merged_percentage" />
-  <img height=300 src="https://github-profile-trophy.vercel.app/?username=MindHunter86&theme=dracula&include_all_commits=true&count_private=true&no-frame=true&column=4&margin-w=15&margin-h=15&title=-Stars,-Reviews" />
+  <img height=220 src="https://github-readme-stats.vkom.cc/api?username=MindHunter86&theme=dracula&show_icons=true&include_all_commits=true&count_private=true&show=reviews,prs_merged,prs_merged_percentage" />
+  <img height=210 src="https://github-profile-trophy.vercel.app/?username=MindHunter86&theme=dracula&include_all_commits=true&count_private=true&no-frame=true&column=4&margin-w=15&margin-h=15&title=-Stars,-Reviews" />
 
 </div>
 
